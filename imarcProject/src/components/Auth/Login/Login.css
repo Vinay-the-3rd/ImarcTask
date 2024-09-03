@@ -1,0 +1,13 @@
+.login-model{
+    border:1px solid #e1e1e1;
+    border-radius: 4px;
+    width: 30vw;
+    /* height: 80vh; */
+    margin-top: 80px;
+    padding: 40px;
+    background: white;
+}
+.login-model p{
+    margin-top: 10px;
+    color: red;
+}

@@ -1,0 +1,50 @@
+.graph-form-model{
+    width: 100vw;
+    height: 100vh;
+    overflow: auto;
+    padding: 40px;
+}
+.graph-btn-box{
+    border:1px solid #e1e1e1;
+    border-radius: 4px;
+    padding: 10px 20px;
+    margin-bottom: 10px
+}
+.add-btn-box{
+    display: flex;
+    margin: 8px 0px 0px 10px;
+    padding: 4px 10px;
+    border-radius: 10px;
+    background: rgb(11, 228, 152);
+    cursor: pointer;
+}
+.remove-btn-box{
+    display: flex;
+    margin: 8px 0px 0px 10px;
+    padding: 4px 10px;
+    border-radius: 10px;
+    background: rgb(228, 11, 119);
+    cursor: pointer;
+}
+.graph-form-chart-model{
+    padding-top: 10px;
+    padding-right: 10px;
+    padding-left: 10px;
+    border: 1px solid #e1e1e1;
+    border-radius: 4px;
+    background: rgb(231, 228, 228);
+}
+.graph-form-chart2-model{
+    padding-top: 20px;
+    padding-right: 10px;
+    padding-left: 40px;
+}
+.delete-box{
+    background: rgb(228, 11, 119);
+    padding: 4px 8px;
+    border-radius: 4px;
+}
+.graph-header{
+    /* border: 1px solid rgb(141, 139, 139); */
+
+}
